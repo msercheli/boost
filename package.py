@@ -1,6 +1,6 @@
 name = "boost"
 
-version = "1.55.0"
+version = "1.74.0"
 
 description = \
     """
@@ -8,7 +8,7 @@ description = \
     """
 
 build_requires = [
-    "python-2.7"
+    "python",
 ]
 
 def commands():
